@@ -1,3 +1,2 @@
-Das ist ein .txt file
-Ich mache jetzt eine veränderung
-Und noch eine
+Wir haben den text geclont vom git zum rechner
+das command war git clone gitadresse!
